@@ -1,0 +1,10 @@
+### Local Variables
+
+@hostname = http://localhost:7071/api
+
+### Get Employees
+
+GET {{hostname}}/walkthrough HTTP/1.1
+
+### Response
+GET {{hostname}}/currenttime HTTP/1.1
