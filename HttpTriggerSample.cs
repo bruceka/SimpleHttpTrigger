@@ -37,6 +37,8 @@ namespace Katis.Function
         //     return response;
         // }
 
+        // TODD: Add Exception Handling
+        
         [Function("HttpFunctionCurrentTime")]
         public async Task<IActionResult> CurrentTime([HttpTrigger(AuthorizationLevel.Anonymous, "get",  Route = "currenttime")] HttpRequestData req)
         {
