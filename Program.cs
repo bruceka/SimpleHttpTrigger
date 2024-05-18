@@ -24,6 +24,8 @@ var host = new HostBuilder()
 
     // Exception handling comments
 
+    // Closing the Exception handling comments
+
 host.Run();
 
 
