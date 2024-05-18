@@ -22,6 +22,8 @@ var host = new HostBuilder()
 
     // Third comment from github
 
+    // Exception handling comments
+
 host.Run();
 
 
