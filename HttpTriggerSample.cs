@@ -43,6 +43,9 @@ namespace Katis.Function
 
         // Double Comments
 
+        // Tripe comments
+        
+
         // Yuck
         
         [Function("HttpFunctionCurrentTime")]
