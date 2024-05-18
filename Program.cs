@@ -16,6 +16,8 @@ var host = new HostBuilder()
 
     // MAIN COMMENT
 
+    // Second comment from GitHub
+
 host.Run();
 
 
