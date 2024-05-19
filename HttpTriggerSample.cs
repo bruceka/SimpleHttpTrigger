@@ -47,6 +47,10 @@ namespace Katis.Function
         
 
         // Yuck
+
+        // More yuck
+
+        // PGA Title
         
         [Function("HttpFunctionCurrentTime")]
         public async Task<IActionResult> CurrentTime([HttpTrigger(AuthorizationLevel.Anonymous, "get",  Route = "currenttime")] HttpRequestData req)
