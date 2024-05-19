@@ -14,28 +14,6 @@ var host = new HostBuilder()
     //})
     .Build();
 
-    // MAIN COMMENT
-
-    // Second comment from GitHub
-
-    // Fourth comment from VSCODE
-
-    // Third comment from github
-
-    // Exception handling comments
-
-    // Closing the Exception handling comments
-
-    // Try this again to close the issue
-
-    // RS trying again to close this
-
-    // PUSH AND PULL REQUEST
-
-// MOre goodies
-
-// Lots of more goodies are here
-
 host.Run();
 
 
